@@ -1,0 +1,2 @@
+# hello-world
+Zaczynam kodować
